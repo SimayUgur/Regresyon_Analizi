@@ -1,6 +1,6 @@
 # Regresyon_Analizi1
 ## ÇOKLU DOĞRUSAL REGRESYON ANALİZİ
-### Analiz Sonuçları :
+### Analiz Sonuçları :simay_1.docx
  ISLR paketinde yer alan Hitters veri setini kullanarak aşağıdaki sorulara yanıt aranacaktır.
  
  Bağımlı değişken: Salary
